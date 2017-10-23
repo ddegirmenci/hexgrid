@@ -1,4 +1,4 @@
-from hex import Hex, Direction, Layout, layout_flat, Point, pixel_to_hex, layout_pointy, \
+from hexgrid import Hex, Direction, Layout, layout_flat, Point, pixel_to_hex, layout_pointy, \
     hex_to_pixel, OffsetCoord, qoffset_to_cube, EVEN, qoffset_from_cube, ODD, roffset_to_cube, \
     roffset_from_cube
 
